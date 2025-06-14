@@ -67,5 +67,13 @@ Upload an image of a skin lesion, and the model will predict the most probable c
 
 ---
 
+## 🔗 Project Repository Link
+
+[Skin Disease Detection using Vision Transformer](https://95cd-35-227-50-155.ngrok-free.app/)
+
+
+---
+
+
 ## 👩‍💻 Author:
 Noorin Nasir Khot
